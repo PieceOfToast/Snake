@@ -1,4 +1,8 @@
 /**
+ * Made By TheRealToast
+ */
+
+/**
  * Namespace
  */
 var Game      = Game      || {};
